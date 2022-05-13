@@ -1,16 +1,17 @@
-### Hi there 👋
+## Data Nerd and Science Geek
 
-<!--
-**Rodrigo-Motta/Rodrigo-Motta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Data Scientist | Physicist | Trying to understand the brain
 
-Here are some ideas to get you started:
+🇧🇷 São Paulo, SP - Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+  <a href = 'https://github.com/Rodrigo-Motta'>
+@felipesveiga
+Update README.md
+4 months ago
+10
+  <img src = "https://github-readme-stats.vercel.app/api?username=Rodrigo-Motta&show_icons=true&theme=react"> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Motta&layout=compact&theme=react'>
+11
+   </div>
+
