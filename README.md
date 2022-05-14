@@ -11,6 +11,9 @@ Passionate about science and technology, I've always tried to develop good commu
   </em> 
   
 ##### If you want to know more about me https://rodrigodamottacc.wixsite.com/rodrigodamottacc
+  <p align="center">
+ <img src="https://media2.giphy.com/media/EhzWrhGlYuvug/giphy.gif?cid=ecf05e47uqzfbh84p0msk2kh3z0520tvyi03bmpnsifmvqwa&rid=giphy.gif&ct=g" width="500" height="300" />
+    <p align="center">
 
 
   <a href = 'https://github.com/Rodrigo-Motta'>
