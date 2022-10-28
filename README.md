@@ -10,7 +10,6 @@
 Passionate about science and technology, I've always tried to develop good communication to expose complex ideas, which gave me a good balance between hard and soft skills. My ambition is to learn and develop techniques in my the subjects of interest, mainly in Data Science, Machine Learning, Neuroscience, communication, research and programming, to create impact, insights and change for the world.
   </em> 
   
-##### If you want to know more about me https://rodrigodamottacc.wixsite.com/rodrigodamottacc
   <p align="center">
  <img src="https://media2.giphy.com/media/EhzWrhGlYuvug/giphy.gif?cid=ecf05e47uqzfbh84p0msk2kh3z0520tvyi03bmpnsifmvqwa&rid=giphy.gif&ct=g" width="500" height="300" />
     <p align="center">
