@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-Passionate about science and technology, I've always tried to develop good communication to expose complex ideas, which gave me a good balance between hard and soft skills. My ambition is to learn and develop techniques in my the subjects of interest, mainly in Data Science, Machine Learning, Neuroscience, communication, research and programming, to create impact, insights and change for the world.
+Passionate about science and technology, I've always tried to develop good communication to expose complex ideas, which gave me a good balance between hard and soft skills. My ambition is to learn and develop techniques in my the subjects of interest, mainly in Data Science, Machine Learning, Neuroscience, communication, research and programming, to create impact, insights and new knowledge.
   </em> 
   
   <p align="center">
