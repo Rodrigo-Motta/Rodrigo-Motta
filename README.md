@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Rodrigo 😃 Data Nerd and Science Geek</h1>
 
-<h3 align="center">Data Scientist | Physicist | Trying to understand the brain</h3>
+<h3 align="center">Data Scientist | Physicist | Neuroscience student trying to understand the brain</h3>
 
 🇧🇷 São Paulo, SP - Brazil
 
