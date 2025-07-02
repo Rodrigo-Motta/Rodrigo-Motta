@@ -1,15 +1,19 @@
-<h1 align="center">Hi, I am Rodrigo 😃 Data Nerd and Science Geek</h1>
+<h1 align="center">Rodrigo here</h1>
 
-<h3 align="center">Data Scientist | Physicist | Neuroscience student trying to understand us</h3>
-
-🇧🇷 São Paulo, SP - Brazil
+<h3 align="center">Data Scientist | Physicist | Investigating brains, minds and machines </h3>
 
 
 <p align="center">
   <em>
 Traveller, skater, runner, international affairs enthusiast and passionate about education and knowledge transfer.
     
-Passionate about science and technology, I've always tried to develop good communication to expose complex ideas, which gave me a good balance between hard and soft skills. My ambition is to learn and develop techniques in my the subjects of interest, mainly in Data Science, Machine Learning, Neuroscience, communication, research and programming, to create impact, insights and new knowledge.
+As a Data Scientist, my professional identity meets at the intersection of AI, Cognition, real-world applications, and innovation, bringing together data science, business experience and collaboration. 
+
+Alongside this, I'm a writer and content creator driven by a passion for communicating and sparking curiosity about Data Science, Artificial Intelligence, Physics, and Neuroscience. Community building and interdisciplinarity is central to my approach.
+
+I deeply value diversity, empathy, and respect.
+
+And remember: creativity thrives when we occasionally increase our entropy!
   </em> 
   
   <p align="center">
